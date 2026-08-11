@@ -4,7 +4,7 @@
 
 - Tên nhóm: Cá nhân - Kiều Hồng Phong (2A202601020)
 - Repository URL: https://github.com/haiphong-0132/Day13-2A202601020-KieuHongPhong
-- Commit SHA cuối: [Điền commit SHA sau khi commit code]
+- Commit SHA cuối: fd273abc8c4c40e59dbc51cdfaf33f344118af54
 - Thành viên và vai trò: Làm tất cả các vai trò.
 
 ## 2. Kết quả kỹ thuật
@@ -56,4 +56,4 @@ Với mỗi thành viên, ghi rõ nhiệm vụ và link commit/PR tương ứng.
 
 | Thành viên | Phần việc | Commit/PR | Điều đã học |
 |---|---|---|---|
-| Kiều Hồng Phong | Làm toàn bộ lab (Logging, PII, Tracing, Dashboard, Investigate Incident) | [Link commit] | Cách config JSON logger, bind context vars, điều tra root cause chặn event loop. |
+| Kiều Hồng Phong | Làm toàn bộ lab (Logging, PII, Tracing, Dashboard, Investigate Incident) | fd273ab | Cách config JSON logger, bind context vars, điều tra root cause chặn event loop. |
